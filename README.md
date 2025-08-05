@@ -50,7 +50,7 @@ The basics of markdown can be found [here](https://guides.github.com/features/ma
 
 ### `left` alignment
 
-<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
+<img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/6c9db87a-60fb-4169-86b3-2c74c8f3bda6">
 
 This is the code you need to align images to the left:
 ```
@@ -61,7 +61,7 @@ This is the code you need to align images to the left:
 
 ### `right` alignment
 
-<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
+<img align="right" width="100" height="100" src="https://github.com/user-attachments/assets/6c9db87a-60fb-4169-86b3-2c74c8f3bda6">
 
 This is the code you need to align images to the right:
 ```
@@ -73,7 +73,7 @@ This is the code you need to align images to the right:
 ### `center` alignment example
 
 <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/313f519d-2d49-4b86-af1f-be2b3c299871">
 </p>
 
 ```
