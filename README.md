@@ -378,6 +378,10 @@ Add call outs in [markdown](https://github.com/community/community/discussions/1
 > Negative potential consequences of an action.
 ```
 
+### Emojis
+
+See a full list of [markdown emojis here](https://gist.github.com/rxaviers/7360908)
+
 ### `additional links`
 
 [Website](http://www.serverless.com) • [Email Updates](http://eepurl.com/b8dv4P) • [Gitter](https://gitter.im/serverless/serverless) • [Forum](http://forum.serverless.com) • [Meetups](https://github.com/serverless-meetups/main) • [Twitter](https://twitter.com/goserverless) • [Facebook](https://www.facebook.com/serverless) • [Contact Us](mailto:hello@serverless.com)
