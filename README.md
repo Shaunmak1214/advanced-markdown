@@ -493,7 +493,7 @@ The above image is embedded like so:
 
 ## Useful utilities
 
-1. [Schedule Posts](https://github.com/serverless/post-scheduler) - Post scheduler for static sites
+1. [Schedule Posts](https://github.com/DavidWells/static-site-post-scheduler) - Post scheduler for static sites
 
   Show DEMO
 
