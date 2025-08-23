@@ -472,7 +472,7 @@ The above image is embedded like so:
 
   YAML front-matter is your friend. You can keep metadata in markdown files
 
-  ```
+  ```yaml
   title: Serverless Framework Documentation
   description: "Great F'in docs!"
   menuText: Docs
